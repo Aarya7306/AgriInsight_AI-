@@ -1,0 +1,5 @@
+backend/models/*.keras
+*.keras
+backend/venv/
+__pycache__/
+node_modules/
