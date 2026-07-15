@@ -119,7 +119,29 @@ cd AgriInsight_AI
 
 ---
 
-## 2️⃣ Backend Setup
+## 2️⃣ Model Setup
+
+Create a **models** folder inside the **backend** directory and place the downloaded trained model file inside it.
+
+Project structure:
+
+```text
+AgriInsight_AI/
+│
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── models/
+│   │   └── plant_disease_recog_model_pwp.keras
+│   └── ...
+└── frontend/
+```
+
+> 📥 Download the trained model from the Google Drive link provided above and place it inside the `backend/models/` folder.
+
+---
+
+## 3️⃣ Backend Setup
 
 ```bash
 cd backend
@@ -131,7 +153,7 @@ python app.py
 
 Backend runs at:
 
-```
+```text
 http://localhost:5000
 ```
 
@@ -277,11 +299,14 @@ You can also train the model using the PlantVillage dataset available on Kaggle.
 
 # 📓 Model Training Notebook
 
-Google Colab Notebook:
-
+**Google Colab Notebook:**  
 https://colab.research.google.com/drive/1M60m6lwKBTm5QwZVlnmYic2h7s93NNbc?usp=sharing
 
-*(Replace this with your own Colab notebook link.)*
+# 🧠 Trained Model
+
+**Google Drive (Trained Model):**  
+https://drive.google.com/file/d/YOUR_MODEL_FILE_ID/view?usp=sharing
+
 
 ---
 
