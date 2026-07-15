@@ -112,7 +112,7 @@ AgriInsight_AI/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/AgriInsight_AI.git
+git clone https://github.com/prachi-ankush-3/AgriInsight_AI-.git
 
 cd AgriInsight_AI
 ```
@@ -197,13 +197,7 @@ http://localhost:5173
 
 ---
 
-## 📱 Responsive Design
 
-> *(Add Screenshot Here)*
-
-```
-📷 mobile.png
-```
 
 ---
 
@@ -285,7 +279,7 @@ You can also train the model using the PlantVillage dataset available on Kaggle.
 
 Google Colab Notebook:
 
-https://colab.research.google.com/
+https://colab.research.google.com/drive/1M60m6lwKBTm5QwZVlnmYic2h7s93NNbc?usp=sharing
 
 *(Replace this with your own Colab notebook link.)*
 
@@ -336,16 +330,7 @@ Response:
 
 ---
 
-# 👨‍💻 Team Members
 
-| Name | Role |
-|------|------|
-| Member 1 | Frontend Development |
-| Member 2 | Backend Development |
-| Member 3 | AI Model Development |
-| Member 4 | Testing & Documentation |
-
----
 
 # 📜 Requirements
 
@@ -364,7 +349,6 @@ Frontend dependencies:
 ```
 React
 Vite
-Axios
 ```
 
 ---
@@ -391,11 +375,8 @@ If you found this project helpful,
 
 📢 Share it with others
 
----
 
-# 📄 License
 
-This project is licensed under the MIT License.
 
 ---
 
