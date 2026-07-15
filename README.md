@@ -159,51 +159,33 @@ http://localhost:5173
 
 ## 🏠 Home Page
 
-> *(Add Screenshot Here)*
-
-```
-📷 home.png
-```
+<p align="center">
+  <img src="./Outputs/Home.png" alt="Home Page" width="900"/>
+</p>
 
 ---
 
 ## 📤 Image Upload
 
-> *(Add Screenshot Here)*
-
-```
-📷 upload.png
-```
+<p align="center">
+  <img src="./Outputs/uplad.png" alt="Image Upload" width="900"/>
+</p>
 
 ---
 
 ## 🤖 Disease Prediction
 
-> *(Add Screenshot Here)*
-
-```
-📷 prediction.png
-```
+<p align="center">
+  <img src="./Outputs/result.png" alt="Disease Prediction" width="900"/>
+</p>
 
 ---
 
-## 💊 Treatment Recommendation
+## 📊 Prediction History
 
-> *(Add Screenshot Here)*
-
-```
-📷 treatment.png
-```
-
----
-
-## 📱 Responsive Design
-
-> *(Add Screenshot Here)*
-
-```
-📷 mobile.png
-```
+<p align="center">
+  <img src="./Outputs/History.png" alt="Prediction History" width="900"/>
+</p>
 
 ---
 
