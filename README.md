@@ -182,7 +182,7 @@ http://localhost:5173
 ## 🏠 Home Page
 
 <p align="center">
-  <img src="Outputs/Home.png" alt="Home Page" width="900">
+  <img src="./Outputs/Home.png" alt="Home Page" width="900"/>
 </p>
 
 ---
@@ -190,7 +190,7 @@ http://localhost:5173
 ## 📤 Image Upload
 
 <p align="center">
-  <img src="Outputs/uplad.png" alt="Image Upload" width="900">
+  <img src="./Outputs/uplad.png" alt="Image Upload" width="900"/>
 </p>
 
 ---
@@ -198,7 +198,7 @@ http://localhost:5173
 ## 🤖 Disease Prediction
 
 <p align="center">
-  <img src="Outputs/result.png" alt="Disease Prediction" width="900">
+  <img src="./Outputs/result.png" alt="Disease Prediction" width="900"/>
 </p>
 
 ---
@@ -206,7 +206,7 @@ http://localhost:5173
 ## 📊 Prediction History
 
 <p align="center">
-  <img src="Outputs/History.png" alt="Prediction History" width="900">
+  <img src="./Outputs/History.png" alt="Prediction History" width="900"/>
 </p>
 
 
